@@ -1,17 +1,13 @@
--- bob mary
+-- concat
 
 module Printy1 where
 
-allCons :: String
-allCons = (++) "bob" " mary"
+allCons :: String -> String -> String
+allCons firstWord secondWord = (++) firstWord secondWord
 
-firstWord :: String
-firstWord = "bob"
 
-secondWord :: String
-secondWord = "mary"
 
-main :: IO ()
-main = do
-    putStrLn allCons 
+
+
+
     
