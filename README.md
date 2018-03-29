@@ -7,4 +7,11 @@ cause why not
 ## I kid
 ```:set -w```
 
+## Obscure
+
+```
+nub :: Eq a => [a] -> [a]
+- removes duplicates in list..like set in Py?
+```
+
 
