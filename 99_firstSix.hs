@@ -24,3 +24,9 @@ import Data.List
 -- 6. Find out whether a list is a palindrome.
 -- let isPalindrome x = if x `compare` reverse x == EQ then True else False
 
+-- 7. flatten a list of lists
+-- let allFlatten = foldr (++) []
+
+
+
+
