@@ -14,4 +14,6 @@ nub :: Eq a => [a] -> [a]
 - removes duplicates in list..like set in Py?
 ```
 
-
+## I also included some notes from the Utah Haskell Group
+- working through HBook with them :D
+  Chpt 3 + 4 - 4/16/18
